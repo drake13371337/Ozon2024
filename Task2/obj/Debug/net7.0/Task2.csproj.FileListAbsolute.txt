@@ -1,0 +1,15 @@
+G:\Rider Projects\Ozon proj\Ozon\Task2\bin\Debug\net7.0\Task2.exe
+G:\Rider Projects\Ozon proj\Ozon\Task2\bin\Debug\net7.0\Task2.deps.json
+G:\Rider Projects\Ozon proj\Ozon\Task2\bin\Debug\net7.0\Task2.runtimeconfig.json
+G:\Rider Projects\Ozon proj\Ozon\Task2\bin\Debug\net7.0\Task2.dll
+G:\Rider Projects\Ozon proj\Ozon\Task2\bin\Debug\net7.0\Task2.pdb
+G:\Rider Projects\Ozon proj\Ozon\Task2\obj\Debug\net7.0\Task2.csproj.AssemblyReference.cache
+G:\Rider Projects\Ozon proj\Ozon\Task2\obj\Debug\net7.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Rider Projects\Ozon proj\Ozon\Task2\obj\Debug\net7.0\Task2.AssemblyInfoInputs.cache
+G:\Rider Projects\Ozon proj\Ozon\Task2\obj\Debug\net7.0\Task2.AssemblyInfo.cs
+G:\Rider Projects\Ozon proj\Ozon\Task2\obj\Debug\net7.0\Task2.csproj.CoreCompileInputs.cache
+G:\Rider Projects\Ozon proj\Ozon\Task2\obj\Debug\net7.0\Task2.dll
+G:\Rider Projects\Ozon proj\Ozon\Task2\obj\Debug\net7.0\refint\Task2.dll
+G:\Rider Projects\Ozon proj\Ozon\Task2\obj\Debug\net7.0\Task2.pdb
+G:\Rider Projects\Ozon proj\Ozon\Task2\obj\Debug\net7.0\Task2.genruntimeconfig.cache
+G:\Rider Projects\Ozon proj\Ozon\Task2\obj\Debug\net7.0\ref\Task2.dll
